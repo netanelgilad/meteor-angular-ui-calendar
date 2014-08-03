@@ -11,6 +11,9 @@
     }
   },
   "bower": {
-    "angular-ui-calendar": "zozi/ui-calendar#fullcalendar2.0"
+    "angular-ui-calendar": {
+      "source" : "zozi/ui-calendar#fullcalendar2.0",
+      "version" : "0.8.1"
+    }
   }
 }
