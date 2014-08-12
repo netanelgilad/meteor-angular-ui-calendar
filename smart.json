@@ -4,7 +4,7 @@
   "homepage": "https://github.com/netanelgilad/meteor-angular-ui-calendar",
   "author": "Netanel Gilad <netanelgilad@gmail.com>",
   "git": "https://github.com/netanelgilad/meteor-angular-ui-calendar.git",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "packages": {
     "bower": {
       "version": "0.1.8"
@@ -13,7 +13,7 @@
   "bower": {
     "angular-ui-calendar": {
       "source" : "angular-ui/ui-calendar",
-      "version" : "v2"
+      "version" : "0.9.0-beta.1"
     }
   }
 }
